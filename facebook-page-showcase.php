@@ -103,7 +103,13 @@ function fa_facebook_page()
 
 
 
-// [facebook_showcase_submission]
+/*
+| --------------------------------------------------------------------
+| User shotrcode [facebook_showcase_submission] to diplay page  
+| submission form.
+| --------------------------------------------------------------------
+*/
+
 function fa_showcase_submission($atts)
 {
     ob_start();
